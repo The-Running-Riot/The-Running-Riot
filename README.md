@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-running-riot" alt="the-running-riot" /></a> </p>
 
-- 🔭 I’m currently working on [contadito](https://dev-app.contadito.com)
-
 - 📫 How to reach me **faresandres@yahoo.es**
 
 <h3 align="left">Connect with me:</h3>
